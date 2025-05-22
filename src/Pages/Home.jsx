@@ -16,7 +16,7 @@ const Home = () => {
               Create Account
             </button>
           </Link>
-          <Link to="/signin">
+          <Link to="/Login">
             <button className="bg-[#6C25FF4B] rounded-md text-[#1D2226] text-base leading-[17px] h-[46px] cursor-pointer transition-all duration-300 ease-in-out hover:bg-[#6e25ff37] w-full">
               Already Registered? Login
             </button>
