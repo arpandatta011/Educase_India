@@ -1,12 +1,27 @@
-# React + Vite
+# Educase India PopX App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive React-based authentication interface for creating and signing in to a Educase India PopX account.
 
-Currently, two official plugins are available:
+🔐 **Signup Form**
+  - Input fields for Full Name, Phone Number, Email, Password, Company Name
+  - Radio button for Agency status
+  - Inline validation and error highlighting
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔑 **Signin Form**
+  - Input fields for Email and Password
+  - Inline validation with navigation to profile on success
 
-## Expanding the ESLint configuration
+🎨 **Design**
+  - Styled using Tailwind CSS
+  - Mobile-first and pixel-perfect
+  - Modern UI feedback
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧱 Tech Stack
+- React + vite
+- React Router DOM
+- Tailwind CSS
+
+## 🔗 Live Demo
+
+👉 [Click here to view the hosted app](https://popxeducaseindia.netlify.app/)
+
